@@ -1,7 +1,4 @@
-<div>
-  <img align="left" height="100" width="100" src="https://c.tenor.com/fRu1dlWtB9sAAAAC/uzaki-hana-anime.gif">
-  <h1 align="left">Meu nome é Luis e eu amo programar</h1>
-</div>
+<img align="left" height="300" width="300" src="https://c.tenor.com/fRu1dlWtB9sAAAAC/uzaki-hana-anime.gif">
 <div align="center">
   <a href="https://github.com/luismudder">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luismudder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
